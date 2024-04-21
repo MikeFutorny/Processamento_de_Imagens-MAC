@@ -1,1 +1,0 @@
-# Processamento_de_Imagens-MAC
