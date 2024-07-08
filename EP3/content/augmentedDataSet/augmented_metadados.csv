@@ -1,0 +1,433 @@
+File Name,Dia/Noite,Classes,Interno/Externo,Fundo,Número de Objetos,Transformation
+image_044.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Normal
+image_044.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Logaritmo
+image_044.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Exponencial
+image_044.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Laplaciano
+image_044.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,MeanFilter
+image_044.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Contraste
+image_013.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Normal
+image_013.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Logaritmo
+image_013.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Exponencial
+image_013.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Laplaciano
+image_013.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,MeanFilter
+image_013.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Contraste
+image_005.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Normal
+image_005.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Logaritmo
+image_005.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Exponencial
+image_005.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Laplaciano
+image_005.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,MeanFilter
+image_005.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Contraste
+image_052.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Normal
+image_052.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Logaritmo
+image_052.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Exponencial
+image_052.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Laplaciano
+image_052.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,MeanFilter
+image_052.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Contraste
+image_029.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Normal
+image_029.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Logaritmo
+image_029.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Exponencial
+image_029.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Laplaciano
+image_029.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,MeanFilter
+image_029.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Contraste
+image_068.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Normal
+image_068.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Logaritmo
+image_068.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Exponencial
+image_068.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Laplaciano
+image_068.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,MeanFilter
+image_068.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Contraste
+image_048.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Normal
+image_048.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Logaritmo
+image_048.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Exponencial
+image_048.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Laplaciano
+image_048.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,MeanFilter
+image_048.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Contraste
+image_009.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Normal
+image_009.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Logaritmo
+image_009.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Exponencial
+image_009.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Laplaciano
+image_009.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,MeanFilter
+image_009.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Contraste
+image_025.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Normal
+image_025.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Logaritmo
+image_025.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Exponencial
+image_025.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Laplaciano
+image_025.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,MeanFilter
+image_025.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Contraste
+image_072.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Normal
+image_072.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Logaritmo
+image_072.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Exponencial
+image_072.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Laplaciano
+image_072.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,MeanFilter
+image_072.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Contraste
+image_064.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Normal
+image_064.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Logaritmo
+image_064.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Exponencial
+image_064.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Laplaciano
+image_064.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,MeanFilter
+image_064.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Contraste
+image_033.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Normal
+image_033.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Logaritmo
+image_033.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Exponencial
+image_033.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Laplaciano
+image_033.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,MeanFilter
+image_033.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Contraste
+image_032.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Normal
+image_032.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Logaritmo
+image_032.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Exponencial
+image_032.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Laplaciano
+image_032.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,MeanFilter
+image_032.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Contraste
+image_065.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Normal
+image_065.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Logaritmo
+image_065.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Exponencial
+image_065.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Laplaciano
+image_065.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,MeanFilter
+image_065.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Contraste
+image_073.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Normal
+image_073.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Logaritmo
+image_073.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Exponencial
+image_073.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Laplaciano
+image_073.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,MeanFilter
+image_073.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Contraste
+image_024.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Normal
+image_024.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Logaritmo
+image_024.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Exponencial
+image_024.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Laplaciano
+image_024.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,MeanFilter
+image_024.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Contraste
+image_008.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Normal
+image_008.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Logaritmo
+image_008.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Exponencial
+image_008.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Laplaciano
+image_008.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,MeanFilter
+image_008.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Contraste
+image_049.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Normal
+image_049.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Logaritmo
+image_049.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Exponencial
+image_049.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Laplaciano
+image_049.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,MeanFilter
+image_049.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Contraste
+image_069.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Normal
+image_069.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Logaritmo
+image_069.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Exponencial
+image_069.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Laplaciano
+image_069.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,MeanFilter
+image_069.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Contraste
+image_028.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Normal
+image_028.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Logaritmo
+image_028.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Exponencial
+image_028.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Laplaciano
+image_028.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,MeanFilter
+image_028.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Contraste
+image_053.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Normal
+image_053.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Logaritmo
+image_053.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Exponencial
+image_053.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Laplaciano
+image_053.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,MeanFilter
+image_053.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Contraste
+image_004.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Normal
+image_004.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Logaritmo
+image_004.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Exponencial
+image_004.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Laplaciano
+image_004.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,MeanFilter
+image_004.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Contraste
+image_012.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Normal
+image_012.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Logaritmo
+image_012.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Exponencial
+image_012.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Laplaciano
+image_012.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,MeanFilter
+image_012.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Contraste
+image_045.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Normal
+image_045.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Logaritmo
+image_045.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Exponencial
+image_045.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Laplaciano
+image_045.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,MeanFilter
+image_045.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Contraste
+image_019.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Normal
+image_019.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Logaritmo
+image_019.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Exponencial
+image_019.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Laplaciano
+image_019.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,MeanFilter
+image_019.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Contraste
+image_058.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Normal
+image_058.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Logaritmo
+image_058.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Exponencial
+image_058.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Laplaciano
+image_058.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,MeanFilter
+image_058.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Contraste
+image_023.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Normal
+image_023.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Logaritmo
+image_023.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Exponencial
+image_023.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Laplaciano
+image_023.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,MeanFilter
+image_023.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Contraste
+image_062.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Normal
+image_062.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Logaritmo
+image_062.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Exponencial
+image_062.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Laplaciano
+image_062.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,MeanFilter
+image_062.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Contraste
+image_035.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Normal
+image_035.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Logaritmo
+image_035.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Exponencial
+image_035.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Laplaciano
+image_035.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,MeanFilter
+image_035.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Contraste
+image_042.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Normal
+image_042.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Logaritmo
+image_042.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Exponencial
+image_042.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Laplaciano
+image_042.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,MeanFilter
+image_042.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Contraste
+image_015.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Normal
+image_015.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Logaritmo
+image_015.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Exponencial
+image_015.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Laplaciano
+image_015.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,MeanFilter
+image_015.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Contraste
+image_003.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Normal
+image_003.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Logaritmo
+image_003.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Exponencial
+image_003.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Laplaciano
+image_003.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,MeanFilter
+image_003.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Contraste
+image_054.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Normal
+image_054.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Logaritmo
+image_054.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Exponencial
+image_054.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Laplaciano
+image_054.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,MeanFilter
+image_054.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Contraste
+image_039.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Normal
+image_039.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Logaritmo
+image_039.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Exponencial
+image_039.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Laplaciano
+image_039.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,MeanFilter
+image_039.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Contraste
+image_038.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Normal
+image_038.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Logaritmo
+image_038.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Exponencial
+image_038.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Laplaciano
+image_038.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,MeanFilter
+image_038.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Contraste
+image_055.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Normal
+image_055.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Logaritmo
+image_055.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Exponencial
+image_055.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Laplaciano
+image_055.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,MeanFilter
+image_055.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Contraste
+image_002.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Normal
+image_002.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Logaritmo
+image_002.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Exponencial
+image_002.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Laplaciano
+image_002.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,MeanFilter
+image_002.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Contraste
+image_014.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Normal
+image_014.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Logaritmo
+image_014.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Exponencial
+image_014.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Laplaciano
+image_014.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,MeanFilter
+image_014.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Contraste
+image_043.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Normal
+image_043.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Logaritmo
+image_043.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Exponencial
+image_043.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Laplaciano
+image_043.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,MeanFilter
+image_043.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Contraste
+image_034.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Normal
+image_034.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Logaritmo
+image_034.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Exponencial
+image_034.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Laplaciano
+image_034.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,MeanFilter
+image_034.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Contraste
+image_063.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Normal
+image_063.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Logaritmo
+image_063.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Exponencial
+image_063.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Laplaciano
+image_063.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,MeanFilter
+image_063.jpeg,Dia,"Pilha, Elastico, Gel",Interno,Madeira,3,Contraste
+image_022.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Normal
+image_022.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Logaritmo
+image_022.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Exponencial
+image_022.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Laplaciano
+image_022.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,MeanFilter
+image_022.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Contraste
+image_059.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Normal
+image_059.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Logaritmo
+image_059.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Exponencial
+image_059.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Laplaciano
+image_059.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,MeanFilter
+image_059.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Contraste
+image_018.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Normal
+image_018.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Logaritmo
+image_018.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Exponencial
+image_018.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Laplaciano
+image_018.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,MeanFilter
+image_018.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Contraste
+image_037.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Normal
+image_037.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Logaritmo
+image_037.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Exponencial
+image_037.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Laplaciano
+image_037.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,MeanFilter
+image_037.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Contraste
+image_060.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Normal
+image_060.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Logaritmo
+image_060.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Exponencial
+image_060.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Laplaciano
+image_060.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,MeanFilter
+image_060.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Contraste
+image_021.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Normal
+image_021.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Logaritmo
+image_021.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Exponencial
+image_021.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Laplaciano
+image_021.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,MeanFilter
+image_021.jpeg,Noite,"Fone, Anel, Pingente",Interno,Madeira Clara,3,Contraste
+image_056.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Normal
+image_056.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Logaritmo
+image_056.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Exponencial
+image_056.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Laplaciano
+image_056.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,MeanFilter
+image_056.jpeg,Dia,"Fone, Anel, Moeda, Elastico",Interno,Pedra Branca,4,Contraste
+image_017.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Normal
+image_017.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Logaritmo
+image_017.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Exponencial
+image_017.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Laplaciano
+image_017.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,MeanFilter
+image_017.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Contraste
+image_040.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Normal
+image_040.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Logaritmo
+image_040.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Exponencial
+image_040.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Laplaciano
+image_040.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,MeanFilter
+image_040.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Contraste
+image_041.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Normal
+image_041.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Logaritmo
+image_041.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Exponencial
+image_041.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Laplaciano
+image_041.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,MeanFilter
+image_041.jpeg,Dia,"Pingente, Anel, Moeda",Interno,Tecido branco,3,Contraste
+image_016.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Normal
+image_016.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Logaritmo
+image_016.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Exponencial
+image_016.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Laplaciano
+image_016.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,MeanFilter
+image_016.jpeg,Noite,"Gel, Moeda, Caneta",Interno,Madeira Clara,3,Contraste
+image_057.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Normal
+image_057.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Logaritmo
+image_057.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Exponencial
+image_057.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Laplaciano
+image_057.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,MeanFilter
+image_057.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Contraste
+image_020.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Normal
+image_020.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Logaritmo
+image_020.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Exponencial
+image_020.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Laplaciano
+image_020.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,MeanFilter
+image_020.jpeg,Noite,"Concha, Pilha, Elastico, Dado",Interno,Madeira Clara,4,Contraste
+image_061.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Normal
+image_061.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Logaritmo
+image_061.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Exponencial
+image_061.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Laplaciano
+image_061.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,MeanFilter
+image_061.jpeg,Dia,"Caneta, Pilha, Gel",Interno,Pedra Branca,3,Contraste
+image_036.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Normal
+image_036.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Logaritmo
+image_036.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Exponencial
+image_036.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Laplaciano
+image_036.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,MeanFilter
+image_036.jpeg,Dia,"Caneta, Anel, Moeda",Externo,Mármore Preto,3,Contraste
+image_050.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Normal
+image_050.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Logaritmo
+image_050.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Exponencial
+image_050.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Laplaciano
+image_050.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,MeanFilter
+image_050.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Contraste
+image_007.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Normal
+image_007.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Logaritmo
+image_007.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Exponencial
+image_007.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Laplaciano
+image_007.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,MeanFilter
+image_007.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Contraste
+image_011.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Normal
+image_011.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Logaritmo
+image_011.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Exponencial
+image_011.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Laplaciano
+image_011.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,MeanFilter
+image_011.jpeg,Noite,"Elastico, Moeda, Pilha",Externo,Mármore Preto,3,Contraste
+image_046.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Normal
+image_046.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Logaritmo
+image_046.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Exponencial
+image_046.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Laplaciano
+image_046.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,MeanFilter
+image_046.jpeg,Dia,"Caneta, Pilha, Concha",Interno,Tecido branco,3,Contraste
+image_031.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Normal
+image_031.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Logaritmo
+image_031.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Exponencial
+image_031.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Laplaciano
+image_031.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,MeanFilter
+image_031.jpeg,Dia,"Fone, Concha, Pingente, Gel",Externo,Mármore Preto,4,Contraste
+image_066.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Normal
+image_066.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Logaritmo
+image_066.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Exponencial
+image_066.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Laplaciano
+image_066.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,MeanFilter
+image_066.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Contraste
+image_070.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Normal
+image_070.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Logaritmo
+image_070.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Exponencial
+image_070.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Laplaciano
+image_070.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,MeanFilter
+image_070.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Contraste
+image_027.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Normal
+image_027.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Logaritmo
+image_027.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Exponencial
+image_027.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Laplaciano
+image_027.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,MeanFilter
+image_027.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Contraste
+image_026.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Normal
+image_026.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Logaritmo
+image_026.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Exponencial
+image_026.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Laplaciano
+image_026.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,MeanFilter
+image_026.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Contraste
+image_071.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Normal
+image_071.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Logaritmo
+image_071.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Exponencial
+image_071.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Laplaciano
+image_071.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,MeanFilter
+image_071.jpeg,Dia,"Caneta, Anel, Moeda, Pingente",Interno,Madeira,4,Contraste
+image_067.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Normal
+image_067.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Logaritmo
+image_067.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Exponencial
+image_067.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Laplaciano
+image_067.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,MeanFilter
+image_067.jpeg,Dia,"Fone, Dado, Concha",Interno,Madeira,3,Contraste
+image_030.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Normal
+image_030.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Logaritmo
+image_030.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Exponencial
+image_030.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Laplaciano
+image_030.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,MeanFilter
+image_030.jpeg,Dia,"Elastico, Dado, Pilha",Externo,Mármore Preto,3,Contraste
+image_047.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Normal
+image_047.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Logaritmo
+image_047.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Exponencial
+image_047.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Laplaciano
+image_047.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,MeanFilter
+image_047.jpeg,Dia,"Elastico, Dado, Gel, Fone",Interno,Tecido branco,4,Contraste
+image_010.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Normal
+image_010.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Logaritmo
+image_010.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Exponencial
+image_010.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Laplaciano
+image_010.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,MeanFilter
+image_010.jpeg,Noite,"Pingente, Dado, Fone, Caneta",Externo,Mármore Preto,4,Contraste
+image_006.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Normal
+image_006.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Logaritmo
+image_006.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Exponencial
+image_006.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Laplaciano
+image_006.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,MeanFilter
+image_006.jpeg,Noite,"Concha, Anel, Gel",Externo,Mármore Preto,3,Contraste
+image_051.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Normal
+image_051.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Logaritmo
+image_051.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Exponencial
+image_051.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Laplaciano
+image_051.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,MeanFilter
+image_051.jpeg,Dia,"Pingente, Dado, Concha",Interno,Pedra Branca,3,Contraste
